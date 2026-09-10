@@ -1,2 +1,6 @@
 # emea-ctl-inventory-sms-gateway-mobile
-catalog / critical / emea
+
+Team: **catalog**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
